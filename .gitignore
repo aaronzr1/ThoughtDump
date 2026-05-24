@@ -1,0 +1,19 @@
+# Build output
+build/
+DerivedData/
+
+# Xcode user settings (machine-specific)
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Swift Package Manager (if added later)
+.build/
+.swiftpm/
